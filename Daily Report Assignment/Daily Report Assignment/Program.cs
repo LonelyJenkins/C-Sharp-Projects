@@ -28,18 +28,18 @@ namespace Daily_Report_Assignment
 
             Console.WriteLine(pageQ);
             string pageNum = Console.ReadLine();
-            int pageNum = Convert.ToInt32(pageNum);
+            int pageNum2 = Convert.ToInt32(pageNum);
 
             Console.WriteLine(helpQ);
             string answer = Console.ReadLine();
-            bool answer = Convert.ToBoolean(answer);
+            bool answer2 = Convert.ToBoolean(answer);
 
             Console.WriteLine(experienceQ);
             string response = Console.ReadLine();
 
             Console.WriteLine(hoursQ);
             string hoursWorked = Console.ReadLine();
-            int hoursWorked = Convert.ToInt32(hoursWorked);
+            int hoursWorked2 = Convert.ToInt32(hoursWorked);
 
             Console.WriteLine("Thank you for your answers, " + yourName + "!! An instructor will respond to this shortly. Have a great day and good luck on the " + courseName + " course!");
             Console.ReadLine();
