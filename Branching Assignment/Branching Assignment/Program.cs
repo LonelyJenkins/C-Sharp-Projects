@@ -31,11 +31,22 @@ namespace Branching_Assignment
                 string length = Console.ReadLine();
                 int packLength = Convert.ToInt32(length);
 
-                int totalCost = ((packHeight * packLength * packWidth) * packWeight) / 100;
+                int totalDimensions = (packHeight + packLength + packWidth);
 
-                Console.WriteLine("Your estimated total for shipping this package is :$" + totalCost);
-                Console.WriteLine("Thank you for choosing Package Express!");
-                Console.ReadLine();
+                if (totalDimensions > 50)
+                {
+                    Console.WriteLine("Package is way too big to be shipped via Package Express! Sorry, bud!");
+                    Console.ReadLine();
+                }
+
+                else
+                {
+                    int totalCost = ((packHeight * packLength * packWidth) * packWeight) / 100;
+
+                    Console.WriteLine("Your estimated total for shipping this package is :$" + totalCost);
+                    Console.WriteLine("Thank you for choosing Package Express!");
+                    Console.ReadLine();
+                }
             }
         }
     }
