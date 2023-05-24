@@ -1,0 +1,7 @@
+C:\Users\OniGa\source\repos\Boolean Console App\Boolean Console App\bin\Debug\Boolean Console App.exe.config
+C:\Users\OniGa\source\repos\Boolean Console App\Boolean Console App\bin\Debug\Boolean Console App.exe
+C:\Users\OniGa\source\repos\Boolean Console App\Boolean Console App\bin\Debug\Boolean Console App.pdb
+C:\Users\OniGa\source\repos\Boolean Console App\Boolean Console App\obj\Debug\Boolean Console App.csprojAssemblyReference.cache
+C:\Users\OniGa\source\repos\Boolean Console App\Boolean Console App\obj\Debug\Boolean Console App.csproj.CoreCompileInputs.cache
+C:\Users\OniGa\source\repos\Boolean Console App\Boolean Console App\obj\Debug\Boolean Console App.exe
+C:\Users\OniGa\source\repos\Boolean Console App\Boolean Console App\obj\Debug\Boolean Console App.pdb
