@@ -1,0 +1,13 @@
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\netcoreapp3.1\Math and Comparison Operators.exe
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\netcoreapp3.1\Math and Comparison Operators.deps.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\netcoreapp3.1\Math and Comparison Operators.runtimeconfig.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\netcoreapp3.1\Math and Comparison Operators.runtimeconfig.dev.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\netcoreapp3.1\Math and Comparison Operators.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\netcoreapp3.1\Math and Comparison Operators.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\netcoreapp3.1\Math and Comparison Operators.csproj.AssemblyReference.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\netcoreapp3.1\Math and Comparison Operators.AssemblyInfoInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\netcoreapp3.1\Math and Comparison Operators.AssemblyInfo.cs
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\netcoreapp3.1\Math and Comparison Operators.csproj.CoreCompileInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\netcoreapp3.1\Math and Comparison Operators.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\netcoreapp3.1\Math and Comparison Operators.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\netcoreapp3.1\Math and Comparison Operators.genruntimeconfig.cache
