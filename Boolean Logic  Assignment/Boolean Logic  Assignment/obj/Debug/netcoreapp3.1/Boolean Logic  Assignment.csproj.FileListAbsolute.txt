@@ -1,0 +1,13 @@
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\bin\Debug\netcoreapp3.1\Boolean Logic  Assignment.exe
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\bin\Debug\netcoreapp3.1\Boolean Logic  Assignment.deps.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\bin\Debug\netcoreapp3.1\Boolean Logic  Assignment.runtimeconfig.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\bin\Debug\netcoreapp3.1\Boolean Logic  Assignment.runtimeconfig.dev.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\bin\Debug\netcoreapp3.1\Boolean Logic  Assignment.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\bin\Debug\netcoreapp3.1\Boolean Logic  Assignment.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\obj\Debug\netcoreapp3.1\Boolean Logic  Assignment.csproj.AssemblyReference.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\obj\Debug\netcoreapp3.1\Boolean Logic  Assignment.AssemblyInfoInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\obj\Debug\netcoreapp3.1\Boolean Logic  Assignment.AssemblyInfo.cs
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\obj\Debug\netcoreapp3.1\Boolean Logic  Assignment.csproj.CoreCompileInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\obj\Debug\netcoreapp3.1\Boolean Logic  Assignment.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\obj\Debug\netcoreapp3.1\Boolean Logic  Assignment.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic  Assignment\Boolean Logic  Assignment\obj\Debug\netcoreapp3.1\Boolean Logic  Assignment.genruntimeconfig.cache
