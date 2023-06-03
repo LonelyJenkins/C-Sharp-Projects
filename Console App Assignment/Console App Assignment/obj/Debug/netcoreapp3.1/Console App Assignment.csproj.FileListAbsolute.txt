@@ -1,0 +1,13 @@
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\bin\Debug\netcoreapp3.1\Console App Assignment.exe
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\bin\Debug\netcoreapp3.1\Console App Assignment.deps.json
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\bin\Debug\netcoreapp3.1\Console App Assignment.runtimeconfig.json
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\bin\Debug\netcoreapp3.1\Console App Assignment.runtimeconfig.dev.json
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\bin\Debug\netcoreapp3.1\Console App Assignment.dll
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\bin\Debug\netcoreapp3.1\Console App Assignment.pdb
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\obj\Debug\netcoreapp3.1\Console App Assignment.csproj.AssemblyReference.cache
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\obj\Debug\netcoreapp3.1\Console App Assignment.AssemblyInfoInputs.cache
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\obj\Debug\netcoreapp3.1\Console App Assignment.AssemblyInfo.cs
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\obj\Debug\netcoreapp3.1\Console App Assignment.csproj.CoreCompileInputs.cache
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\obj\Debug\netcoreapp3.1\Console App Assignment.dll
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\obj\Debug\netcoreapp3.1\Console App Assignment.pdb
+C:\Users\OniGa\Source\Repos\Console App Assignment\Console App Assignment\obj\Debug\netcoreapp3.1\Console App Assignment.genruntimeconfig.cache
