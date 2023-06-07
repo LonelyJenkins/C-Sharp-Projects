@@ -1,0 +1,13 @@
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\bin\Debug\netcoreapp3.1\Class Submission Assignment.exe
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\bin\Debug\netcoreapp3.1\Class Submission Assignment.deps.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\bin\Debug\netcoreapp3.1\Class Submission Assignment.runtimeconfig.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\bin\Debug\netcoreapp3.1\Class Submission Assignment.runtimeconfig.dev.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\bin\Debug\netcoreapp3.1\Class Submission Assignment.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\bin\Debug\netcoreapp3.1\Class Submission Assignment.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\obj\Debug\netcoreapp3.1\Class Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\obj\Debug\netcoreapp3.1\Class Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\obj\Debug\netcoreapp3.1\Class Submission Assignment.AssemblyInfo.cs
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\obj\Debug\netcoreapp3.1\Class Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\obj\Debug\netcoreapp3.1\Class Submission Assignment.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\obj\Debug\netcoreapp3.1\Class Submission Assignment.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Class Submission Assignment\Class Submission Assignment\obj\Debug\netcoreapp3.1\Class Submission Assignment.genruntimeconfig.cache
