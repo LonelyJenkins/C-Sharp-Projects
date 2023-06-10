@@ -1,0 +1,13 @@
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\bin\Debug\netcoreapp3.1\Methods And Objects Assignment.exe
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\bin\Debug\netcoreapp3.1\Methods And Objects Assignment.deps.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\bin\Debug\netcoreapp3.1\Methods And Objects Assignment.runtimeconfig.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\bin\Debug\netcoreapp3.1\Methods And Objects Assignment.runtimeconfig.dev.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\bin\Debug\netcoreapp3.1\Methods And Objects Assignment.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\bin\Debug\netcoreapp3.1\Methods And Objects Assignment.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\obj\Debug\netcoreapp3.1\Methods And Objects Assignment.csproj.AssemblyReference.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\obj\Debug\netcoreapp3.1\Methods And Objects Assignment.AssemblyInfoInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\obj\Debug\netcoreapp3.1\Methods And Objects Assignment.AssemblyInfo.cs
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\obj\Debug\netcoreapp3.1\Methods And Objects Assignment.csproj.CoreCompileInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\obj\Debug\netcoreapp3.1\Methods And Objects Assignment.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\obj\Debug\netcoreapp3.1\Methods And Objects Assignment.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Methods And Objects Assignment\Methods And Objects Assignment\obj\Debug\netcoreapp3.1\Methods And Objects Assignment.genruntimeconfig.cache
