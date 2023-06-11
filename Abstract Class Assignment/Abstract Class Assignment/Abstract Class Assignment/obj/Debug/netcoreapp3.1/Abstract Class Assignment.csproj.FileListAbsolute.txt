@@ -1,0 +1,13 @@
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\netcoreapp3.1\Abstract Class Assignment.exe
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\netcoreapp3.1\Abstract Class Assignment.deps.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\netcoreapp3.1\Abstract Class Assignment.runtimeconfig.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\netcoreapp3.1\Abstract Class Assignment.runtimeconfig.dev.json
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\netcoreapp3.1\Abstract Class Assignment.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\netcoreapp3.1\Abstract Class Assignment.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.AssemblyInfoInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.AssemblyInfo.cs
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.dll
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.pdb
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.genruntimeconfig.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.csproj.AssemblyReference.cache
