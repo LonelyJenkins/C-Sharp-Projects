@@ -10,3 +10,4 @@ C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abst
 C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.dll
 C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.pdb
 C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.genruntimeconfig.cache
+C:\Users\OniGa\OneDrive\Desktop\Basic_C#_Programs\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\netcoreapp3.1\Abstract Class Assignment.csproj.AssemblyReference.cache

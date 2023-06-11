@@ -14,6 +14,11 @@ namespace Abstract_Class_Assignment
 
             person.SayName();
             Console.ReadLine();
+
+            IQuittable quit = new Employee();
+            quit.Quit();
+            Console.ReadLine();
+
         }
     }
 }
