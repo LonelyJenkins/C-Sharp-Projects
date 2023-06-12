@@ -9,6 +9,10 @@ namespace Abstract_Class_Assignment
         public string firstName { get; set; }
         public string lastName { get; set; }
 
+        public int id { get; set; }
+
         public abstract void SayName();
+
+       
     }
 }
