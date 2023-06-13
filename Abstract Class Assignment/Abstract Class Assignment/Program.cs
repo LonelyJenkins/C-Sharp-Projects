@@ -8,7 +8,7 @@ namespace Abstract_Class_Assignment
         {
             bool duplicateID = true;
 
-            Person person = new Employee();
+            Employee person = new Employee();
             Console.WriteLine("Enter your first name");
             person.firstName = Console.ReadLine();
             Console.WriteLine("Now enter your last name");
@@ -19,7 +19,7 @@ namespace Abstract_Class_Assignment
             person.SayName();
             Console.ReadLine();
 
-            Person person1 = new Employee();
+            Employee person1 = new Employee();
             person1.id = 10;
 
             duplicateID = person == person1;
