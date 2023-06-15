@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Abstract_Class_Assignment
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
+        public List<T> Things;
 
         public override void SayName()
         {
@@ -32,7 +33,7 @@ namespace Abstract_Class_Assignment
             return base.ToString();
         }
 
-        public static bool operator ==(Employee person1, Employee person2)
+        public static bool operator ==(Employee<T> person1, Employee<T> person2)
         {
             if (person1.id == person2.id)
             {
@@ -45,7 +46,7 @@ namespace Abstract_Class_Assignment
             }
         }
 
-        public static bool operator !=(Employee person1, Employee person2)
+        public static bool operator !=(Employee<T> person1, Employee<T> person2)
         {
             if (person1.id == person2.id)
             {
