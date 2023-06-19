@@ -18,6 +18,13 @@ namespace Abstract_Class_Assignment
             Console.WriteLine("That's it! I quit!!");
         }
 
+        public void employeeData( string fname, string lname, int ident)
+        {
+            id = ident;
+            firstName = fname;
+            lastName = lname;
+        }
+
         public override bool Equals(object obj)
         {
             return base.Equals(obj);
