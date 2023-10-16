@@ -1,2 +1,2 @@
 # C-Sharp-Projects
-Tech Academy C# exercises
+C# exercises to further display fluency in C#
